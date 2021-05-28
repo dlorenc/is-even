@@ -1,3 +1,3 @@
 module github.com/dlorenc/is-even
 
-go 1.14
+go 1.16
